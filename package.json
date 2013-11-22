@@ -1,0 +1,22 @@
+{
+  "name": "date-interval",
+  "version": "0.0.1",
+  "description": "Calculate dates inside an interval",
+  "keywords": [
+    "date",
+    "interval",
+    "interval"
+  ],
+  "author": "Segment.io <friends@segment.io>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/segmentio/date-interval.git"
+  },
+  "dependencies": {
+    "defaults": "~1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "date-math": "0.0.1"
+  }
+}

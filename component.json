@@ -1,0 +1,19 @@
+{
+  "name": "date-interval",
+  "repo": "segmentio/date-interval",
+  "description": "Get a date interval",
+  "version": "0.0.1",
+  "keywords": [
+    "date",
+    "math"
+  ],
+  "dependencies": {
+    "avetisk/defaults": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
